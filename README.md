@@ -1,6 +1,7 @@
 # vue+firebase 블로그 프로젝트
 
 #app.vue
+```
   <template>
   <!-- 상단 사이드바 -->
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -159,3 +160,4 @@ export default {
 @import url('https://fonts.googleapis.com/icon?family=Material+Icons');
 @import './assets/appCss.css';
 </style>
+```
