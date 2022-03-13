@@ -1,6 +1,6 @@
 # vue+firebase 블로그 프로젝트
 
-#app.vue
+## app.vue
 ```
   <template>
   <!-- 상단 사이드바 -->
